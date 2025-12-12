@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on :<br>Fast-paced Data Science learning — sprinting through Python, ML basics, and projects before the deadline taps me on the shoulder.<br><br>💡I’m looking for help with<br>Scaling my data science workflow,<br>Better structuring ML projects ,<br>Turning ideas into polished deployable apps.<br><br>I’m currently learning<br><br>Data Science + ML <br>Full-stack development,<br>Cleaner code architecture .<br><br>
+🛠 I’m currently working on :<br>Fast-paced Data Science learning — sprinting through Python, ML basics, and projects before the deadline taps me on the shoulder.<br><br>💡I’m looking for help with<br>Scaling my data science workflow,<br>Better structuring ML projects ,<br>Turning ideas into polished deployable apps.<br><br>I’m currently learning<br>Data Science + ML <br>Full-stack development,<br>Cleaner code architecture .<br><br>
 
 
 ## 🌐 Socials:
